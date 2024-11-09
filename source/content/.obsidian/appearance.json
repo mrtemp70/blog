@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "table-positions",
+    "image-positions",
+    "table"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "217f71c9c1808353",
+    "type": "split",
+    "children": [
+      {
+        "id": "52f0305203758fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec293e7a635d1fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MS SQL Query/GROUP BY.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d77923d0480445d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e65a64923af28df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ec68d806700e3e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#join",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52909fa16cb78a53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f20d936dd4776fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e29b3d5a72fec328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf454730aeb3448",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81534c986c62e7f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MS SQL Query/GROUP BY.md"
+              }
+            }
+          },
+          {
+            "id": "d69d90ac54e2ed69",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "db4f3cd319e7d68a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ec293e7a635d1fb8",
+  "lastOpenFiles": [
+    "MS SQL Query/JOIN Query Shortcut.md",
+    "MS SQL Query/Settings/JOIN Query Shortcut 1.md",
+    "MS SQL Query/Settings",
+    "MS SQL Query/GROUP BY.md",
+    "MS SQL Query/JOIN with Aggregate Functions.md",
+    "MS SQL Query/JOIN Query.md",
+    "Pasted image 20241013082939.png",
+    "Pasted image 20241013082914.png",
+    "2024-10-13.md",
+    "MS SQL/Screenshot 2024-10-12 090132.png",
+    "Pasted image 20241013002234.png",
+    "Pasted image 20241013002256.png",
+    "Untitled.md",
+    "center.md",
+    "snippets/image-positions.css",
+    "snippets",
+    "New folder",
+    "Aspose.Words.e8c34708-fa56-408e-ad3b-905b72c2b4ef.006.png",
+    "Screenshot 2024-10-12 042848.png",
+    "file.md",
+    "Aspose.Words.e8c34708-fa56-408e-ad3b-905b72c2b4ef.003.png",
+    "MS SQL/JQuery.md",
+    "Excalidraw/Drawing 2024-10-12 09.00.15.excalidraw.md",
+    "Pasted image 20241012090254.png",
+    "Pasted image 20241012090232.png",
+    "Excalidraw/Drawing 2024-10-12 08.59.51.excalidraw.md",
+    "Excalidraw",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "2024-10-12.md",
+    "MS SQL/Join Query 2.md",
+    "MS SQL/Test/Join Query 2.md",
+    "MS SQL/Test",
+    "Angular",
+    "MS SQL Query",
+    "Welcome.md",
+    "Hi.md"
+  ]
+}
