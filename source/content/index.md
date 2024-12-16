@@ -1,25 +1,24 @@
 ---
-title: Welcome to My Blog!
+title Welcome to My Blog!
 ---
 
-<div style="text-align: justify;">
-Welcome to my blog, where I share my journey in web development! I’m <strong><a href="https://shoyeb.is-a.dev/">Showyeab Ahmed</a></strong>, and here you'll find tips, tutorials, and insights to help you enhance your skills and create amazing websites. Whether you’re just starting out or looking to level up, there’s something for you!
-</div>
+div style=text-align justify;
+Welcome to my blog, where I share my journey in web development! I’m stronga href=httpsshoyeb.is-a.devShowyeab Ahmedastrong, and here you'll find tips, tutorials, and insights to help you enhance your skills and create amazing websites. Whether you’re just starting out or looking to level up, there’s something for you!
+div
 
 
 ## Table of Contents
 
-1. [Angular](https://blog.shoyeb.is-a.dev/Angular)
-2. [CSHARP and DOTNET](https://blog.shoyeb.is-a.dev/CSHARP-and-DOTNET)
-3. [MS SQL](https://blog.shoyeb.is-a.dev/MS-SQL-Query)
-4. [Typescript](https://blog.shoyeb.is-a.dev/Typescript)
+1. [Angular](httpsblog.shoyeb.is-a.devAngular)
+2. [CSHARP and DOTNET](httpsblog.shoyeb.is-a.devCSHARP-and-DOTNET)
+3. [MS SQL](httpsblog.shoyeb.is-a.devMS-SQL-Query)
+4. [Typescript](httpsblog.shoyeb.is-a.devTypescript)
 
 
 ---
 
 ### Connect with Me
 
-[![Facebook](https://img.icons8.com/ios-filled/25/000000/facebook-new.png)](https://www.facebook.com/showyeab.ahmed)  [![LinkedIn](https://img.icons8.com/ios-filled/25/000000/linkedin.png)](https://www.linkedin.com/in/msashoyeb/?originalSubdomain=bd)  [![GitHub](https://img.icons8.com/ios-filled/25/000000/github.png)](https://github.com/msashoyeb)  
+[![Facebook](httpsimg.icons8.comios-filled25000000facebook-new.png)](httpswww.facebook.comshowyeab.ahmed)  [![LinkedIn](httpsimg.icons8.comios-filled25000000linkedin.png)](httpswww.linkedin.cominmsashoyeboriginalSubdomain=bd)  [![GitHub](httpsimg.icons8.comios-filled25000000github.png)](httpsgithub.commsashoyeb)  
 
 Feel free to connect with me on these platforms!
-
