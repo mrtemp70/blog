@@ -12,8 +12,7 @@ Welcome to my blog, where I share my journey in web development! I’m <strong><
 1. [Angular](https://blog.shoyeb.is-a.dev/Angular)
 2. [CSHARP and DOTNET](https://blog.shoyeb.is-a.dev/CSHARP-and-DOTNET)
 3. [MS SQL](https://blog.shoyeb.is-a.dev/MS-SQL-Query)
-4. [SASS](https://blog.shoyeb.is-a.dev/SASS)
-5. [Typescript](https://blog.shoyeb.is-a.dev/Typescript)
+4. [Typescript](https://blog.shoyeb.is-a.dev/Typescript)
 
 
 ---

@@ -56,32 +56,10 @@ Here's how you can add **ng-zorro-antd** to any Angular project using **cdk**:
     ```bash
     ng add ng-zorro-antd
     ```
-    
-3. **Add Angular CDK** (if it’s not already installed): The **ng-zorro-antd** library relies on the Angular CDK, so if it's not already installed, run:
-    
-    ```bash
-    npm install @angular/cdk
-    ```
 
-4. Now add `"node_modules/ng-zorro-antd/ng-zorro-antd.min.css"` into `angular.json`
-    
-    ```json
-    "styles": [
-              "src/theme.less",
-              "src/custom-theme.scss",
-              "src/styles.css",
-              
-              "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
-            ]
-    ```
-    
-5. Now create a component and add routing into `app-routing.module.ts`:
-    
-    ```typescript
-  { path: 'user', pathMatch: 'full', component: UserComponent }];
-    ```
-    
-6. **Import the necessary NgZorro module**: In your `app.module.ts`, import the `NzButtonModule` (or any other required ng-zorro modules) and add them to the `imports` array.
+![[ng-zorro-version.png]]
+
+3. **Import the necessary NgZorro module**: In your `app.module.ts`, import the `NzButtonModule` (or any other required ng-zorro modules) and add them to the `imports` array. Must be check ng zorro version before use make sure to check the NG-ZORRO version before using it. (Version 17.4 is used here. If an update is needed, you must first update Angular core and animations.)
     
     ```typescript
     import { NzButtonModule } from 'ng-zorro-antd/button';
@@ -94,7 +72,7 @@ Here's how you can add **ng-zorro-antd** to any Angular project using **cdk**:
     export class AppModule {}
     ```
     
-7. **Start using ng-zorro components**: Now, you can start using ng-zorro components like buttons in your templates:
+4. **Start using ng-zorro components**: Now, you can start using ng-zorro components like buttons in your templates:
     
     ```html
     <button nz-button nzType="primary">Primary Button</button>
