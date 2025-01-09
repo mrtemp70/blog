@@ -9,10 +9,15 @@ Welcome to my blog, where I share my journey in web development! I’m <strong><
 
 ## Table of Contents
 
-1. [Angular](https://blog.shoyeb.is-a.dev/Angular)
-2. [CSHARP and DOTNET](https://blog.shoyeb.is-a.dev/CSHARP-and-DOTNET)
-3. [MS SQL](https://blog.shoyeb.is-a.dev/MS-SQL-Query)
-4. [Typescript](https://blog.shoyeb.is-a.dev/Typescript)
+1. [Advanced C#](https://blog.shoyeb.is-a.dev/Advanced-C-Sharp)
+2. [Angular](https://blog.shoyeb.is-a.dev/Angular)
+3. [CSS and Bootstrap](https://blog.shoyeb.is-a.dev/CSS-and-Bootstrap)
+4. [Dotnet](https://blog.shoyeb.is-a.dev/Dotnet)
+5. [Miscellaneous Non-Technical](https://blog.shoyeb.is-a.dev/Miscellaneous-Non-Technical)
+6. [Miscellaneous Technical](https://blog.shoyeb.is-a.dev/Miscellaneous-Technical)
+7. [MS SQL](https://blog.shoyeb.is-a.dev/MS-SQL-Query)
+8. [SASS](https://blog.shoyeb.is-a.dev/SASS)
+9. [Typescript](https://blog.shoyeb.is-a.dev/Typescript)
 
 
 ---
