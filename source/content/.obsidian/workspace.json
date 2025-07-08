@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c9190d2f87f4ab",
+        "id": "3ddb9e1b59e246d7",
         "type": "tabs",
         "children": [
           {
-            "id": "52a8e0b460336f68",
+            "id": "69f828f1869b516c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dotnet interview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "1da2de14d4e818a5",
+            "id": "4d8a2ea6b768dda4",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,16 +138,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52a8e0b460336f68",
+  "active": "52909fa16cb78a53",
   "lastOpenFiles": [
+    "resources/refit.png",
+    "Dotnet/Advanced Topic from Internet/Refit.md",
+    "resources/auto-include-in-efcore.png",
+    "Advanced C-Sharp/25. LINQ.md",
+    "Dotnet/Advanced Topic from Internet/NET decompilation tools.md",
+    "Dotnet/Advanced Topic from Internet/Dependency Injection Lifetimes.md",
+    "Dotnet/Advanced Topic from Internet/Local Temp Table vs Global Temp Table.md",
+    "Dotnet/Advanced Topic from Internet/AutoInclude.md",
+    "Dotnet/Advanced Topic from Internet/HttpContext.md",
+    "Dotnet/Advanced Topic from Internet/Bulk Update in EF Core- Old vs New.md",
+    "Dotnet/Advanced Topic from Internet/New Feature in Dot.md",
+    "Dotnet/Advanced Topic from Internet/HttpClient.md",
+    "Dotnet/Advanced Topic from Internet/Magical Debugging with DebuggerDisplay.md",
+    "resources/dotnet-magical-debugging-tool.png",
+    "Dotnet/Advanced Topic from Internet/LINQ Mind Map.md",
+    "resources/linq-mindmap.png",
+    "Dotnet/Advanced Topic from Internet/CancellationToken.md",
+    "Dotnet/Advanced Topic from Internet/Fixed Window Rate Limiting and Token Bucket Rate Limiting.md",
+    "resources/cancellationToken.png",
     "Dotnet/Advanced Topic from Internet/How Vector Search Works.md",
     "Dotnet/Advanced Topic from Internet/gRPC vs. REST.md",
-    "Dotnet/Advanced Topic from Internet/Bulk Update in EF Core- Old vs New.md",
-    "Dotnet/Advanced Topic from Internet/Fixed Window Rate Limiting and Token Bucket Rate Limiting.md",
     "Dotnet/Advanced Topic from Internet/Output Caching.md",
-    "Dotnet/Advanced Topic from Internet/New Feature in Dot.md",
     "Dotnet/16. SignalR Implementation.md",
-    "Dotnet/Advanced Topic from Internet/HttpClient.md",
     "Dotnet/Advanced Topic from Internet/Kestrel Server.md",
     "Dotnet/Advanced Topic from Internet/Middleware Ordering.md",
     "Advanced C-Sharp/27. DOTNET.md",
@@ -156,31 +171,16 @@
     "SASS/1. Installing.md",
     "Miscellaneous Technical/DSkill Interview.md",
     "Miscellaneous Technical/Git.md",
-    "Dotnet/9. 500 Dotnet Interview Questions 2022.md",
-    "MS SQL Query/JOIN Query Shortcut.md",
-    "MS SQL Query/Settings/JOIN Query Shortcut 1.md",
     "MS SQL Query/Settings",
-    "MS SQL Query/GROUP BY.md",
-    "MS SQL Query/JOIN with Aggregate Functions.md",
-    "MS SQL Query/JOIN Query.md",
     "Pasted image 20241013082939.png",
     "Pasted image 20241013082914.png",
-    "2024-10-13.md",
     "MS SQL/Screenshot 2024-10-12 090132.png",
     "Pasted image 20241013002234.png",
     "Pasted image 20241013002256.png",
-    "Untitled.md",
-    "center.md",
     "snippets/image-positions.css",
     "snippets",
     "New folder",
     "Aspose.Words.e8c34708-fa56-408e-ad3b-905b72c2b4ef.006.png",
-    "Screenshot 2024-10-12 042848.png",
-    "file.md",
-    "Aspose.Words.e8c34708-fa56-408e-ad3b-905b72c2b4ef.003.png",
-    "MS SQL/JQuery.md",
-    "Pasted image 20241012090254.png",
-    "Pasted image 20241012090232.png",
     "Excalidraw",
     "Untitled 1.canvas",
     "Untitled.canvas",
