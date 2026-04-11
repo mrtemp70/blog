@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3ddb9e1b59e246d7",
+        "id": "617b6802293e2f32",
         "type": "tabs",
         "children": [
           {
-            "id": "69f828f1869b516c",
+            "id": "3a2210ed14093f93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous Technical/Git Advanced.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Git Advanced"
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 292.5
   },
   "right": {
     "id": "6f20d936dd4776fe",
@@ -129,20 +134,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52909fa16cb78a53",
+  "active": "3a2210ed14093f93",
   "lastOpenFiles": [
+    "resources/git_apply_patch2.png",
+    "resources/git_apply_patch.png",
+    "Miscellaneous Technical/Git Advanced.md",
+    "resources/git_undo_merge.png",
+    "resources/git_delete_tag3.png",
+    "resources/git_delete_tag2.png",
+    "resources/git_delete_tag.png",
+    "resources/git_push_tag.png",
+    "resources/git_create_tag.png",
+    "resources/git_pull.png",
+    "Miscellaneous Technical/Git.md",
+    "index.md",
     "resources/refit.png",
     "Dotnet/Advanced Topic from Internet/Refit.md",
-    "resources/auto-include-in-efcore.png",
     "Advanced C-Sharp/25. LINQ.md",
     "Dotnet/Advanced Topic from Internet/NET decompilation tools.md",
     "Dotnet/Advanced Topic from Internet/Dependency Injection Lifetimes.md",
@@ -153,12 +170,9 @@
     "Dotnet/Advanced Topic from Internet/New Feature in Dot.md",
     "Dotnet/Advanced Topic from Internet/HttpClient.md",
     "Dotnet/Advanced Topic from Internet/Magical Debugging with DebuggerDisplay.md",
-    "resources/dotnet-magical-debugging-tool.png",
     "Dotnet/Advanced Topic from Internet/LINQ Mind Map.md",
-    "resources/linq-mindmap.png",
     "Dotnet/Advanced Topic from Internet/CancellationToken.md",
     "Dotnet/Advanced Topic from Internet/Fixed Window Rate Limiting and Token Bucket Rate Limiting.md",
-    "resources/cancellationToken.png",
     "Dotnet/Advanced Topic from Internet/How Vector Search Works.md",
     "Dotnet/Advanced Topic from Internet/gRPC vs. REST.md",
     "Dotnet/Advanced Topic from Internet/Output Caching.md",
@@ -168,19 +182,10 @@
     "Advanced C-Sharp/27. DOTNET.md",
     "Dotnet/Advanced Topic from Internet",
     "Dotnet/20. Advanced Topic from Internet.md",
-    "SASS/1. Installing.md",
-    "Miscellaneous Technical/DSkill Interview.md",
-    "Miscellaneous Technical/Git.md",
     "MS SQL Query/Settings",
-    "Pasted image 20241013082939.png",
-    "Pasted image 20241013082914.png",
-    "MS SQL/Screenshot 2024-10-12 090132.png",
-    "Pasted image 20241013002234.png",
-    "Pasted image 20241013002256.png",
     "snippets/image-positions.css",
     "snippets",
     "New folder",
-    "Aspose.Words.e8c34708-fa56-408e-ad3b-905b72c2b4ef.006.png",
     "Excalidraw",
     "Untitled 1.canvas",
     "Untitled.canvas",
