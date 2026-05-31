@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "30e7d5f410371765",
+        "id": "1d237ef3f015c3e1",
         "type": "tabs",
         "children": [
           {
-            "id": "7c52b3de0cd6381d",
+            "id": "a605025baa82e0e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous Technical/Cloudflared Tunnel Setup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cloudflared Tunnel Setup"
+              "title": "New tab"
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 319.5
   },
   "right": {
     "id": "6f20d936dd4776fe",
@@ -144,31 +139,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c52b3de0cd6381d",
+  "active": "a605025baa82e0e3",
   "lastOpenFiles": [
-    "Pasted image 20260531004301.png",
-    "Miscellaneous Technical/Cloudflared Tunnel Setup.md",
-    "Miscellaneous Technical/Setup Custom Domain with Cloudflare + GitHub Pages.md",
-    "resources/cloudflareTunnel5.png",
-    "resources/cloudflareTunnel4.png",
-    "resources/cloudflareTunnel3.png",
-    "resources/cloudflareTunnel2.png",
-    "resources/cloudflareTunnel1.png",
-    "resources/domain.png",
+    "Miscellaneous Technical/12. Cloudflare Subdomain and Redirect.md",
+    "resources/domain16.png",
+    "resources/domain9.png",
+    "resources/domain12.png",
+    "Miscellaneous Technical/10. Setup Domain with Cloudflare & DNS Basics.md",
+    "resources/domain14.png",
+    "resources/domain15.png",
+    "resources/domain14.png",
+    "Pasted image 20260531125859.png",
+    "resources/domain9.png",
+    "resources/domain13.png",
+    "resources/domain12.png",
+    "Miscellaneous Technical/7. jQuery.md",
+    "Miscellaneous Technical/4. Git Advanced.md",
+    "Miscellaneous Technical/11. Cloudflared Tunnel Setup.md",
     "Miscellaneous Technical/DNS & Domain Terminology.md",
-    "resources/domain.png",
-    "resources/domain7.png",
-    "Miscellaneous Technical/jQuery.md",
     "resources/shoyeb.asia.txt",
-    "resources/domain4.png",
     "index.md",
     "shoyeb.asia.txt",
-    "Miscellaneous Technical/DSA.md",
-    "Miscellaneous Technical/AWS Handnote.md",
-    "Miscellaneous Technical/JavaScript.md",
-    "Miscellaneous Technical/Git Advanced.md",
+    "Miscellaneous Technical/2. DSA.md",
+    "Miscellaneous Technical/9. AWS Handnote.md",
+    "Miscellaneous Technical/6. JavaScript.md",
     "Miscellaneous Technical/ng 21.md",
-    "Miscellaneous Technical/Git.md",
+    "Miscellaneous Technical/3. Git.md",
     "Dotnet/Advanced Topic from Internet/Refit.md",
     "Advanced C-Sharp/25. LINQ.md",
     "Dotnet/Advanced Topic from Internet/NET decompilation tools.md",
@@ -182,7 +178,6 @@
     "Dotnet/Advanced Topic from Internet/Magical Debugging with DebuggerDisplay.md",
     "Dotnet/Advanced Topic from Internet/LINQ Mind Map.md",
     "Dotnet/Advanced Topic from Internet/CancellationToken.md",
-    "Dotnet/Advanced Topic from Internet/Fixed Window Rate Limiting and Token Bucket Rate Limiting.md",
     "Dotnet/Advanced Topic from Internet",
     "MS SQL Query/Settings",
     "snippets/image-positions.css",
