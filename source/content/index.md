@@ -3,22 +3,21 @@ title: Welcome to My Blog!
 ---
 
 <div style="text-align: justify;">
-Welcome to my blog, where I share my journey in web development! I’m <strong><a href="https://shoyeb.is-a.dev/">Showyeab Ahmed</a></strong>, and here you'll find tips, tutorials, and insights to help you enhance your skills and create amazing websites. Whether you’re just starting out or looking to level up, there’s something for you!
+Welcome to my blog, where I share my journey in web development! Here you'll find tips, tutorials, and insights to help you enhance your skills and create amazing websites. Whether you’re just starting out or looking to level up, there’s something for you!
 </div>
 
 
 ## Table of Contents
 
-1. [Advanced C#](https://blog.shoyeb.is-a.dev/Advanced-C-Sharp)
-2. [Angular](https://blog.shoyeb.is-a.dev/Angular)
-3. [CSS and Bootstrap](https://blog.shoyeb.is-a.dev/CSS-and-Bootstrap)
-4. [Dotnet](https://blog.shoyeb.is-a.dev/Dotnet)
-5. [Miscellaneous Non-Technical](https://blog.shoyeb.is-a.dev/Miscellaneous-Non-Technical)
-6. [Miscellaneous Technical](https://blog.shoyeb.is-a.dev/Miscellaneous-Technical)
-7. [MS SQL](https://blog.shoyeb.is-a.dev/MS-SQL-Query)
-8. [SASS](https://blog.shoyeb.is-a.dev/SASS)
-9. [Typescript](https://blog.shoyeb.is-a.dev/Typescript)
-
+1. [Advanced C#](/Advanced-C-Sharp)
+2. [Angular](/Angular)
+3. [CSS and Bootstrap](/CSS-and-Bootstrap)
+4. [Dotnet](/Dotnet)
+5. [Miscellaneous Non-Technical](/Miscellaneous-Non-Technical)
+6. [Miscellaneous Technical](/Miscellaneous-Technical)
+7. [MS SQL](/MS-SQL-Query)
+8. [SASS](/SASS)
+9. [Typescript](/Typescript)
 
 ---
 
