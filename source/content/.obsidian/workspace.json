@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous Technical/13. Mailtrap SMTP Setup.md",
+                "file": "Miscellaneous Non-Technical/Accounting/4. Tabular Analysis Example 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "13. Mailtrap SMTP Setup"
+              "title": "4. Tabular Analysis Example 2"
             }
           }
         ]
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f20d936dd4776fe",
@@ -146,9 +147,28 @@
   },
   "active": "a605025baa82e0e3",
   "lastOpenFiles": [
+    "Miscellaneous Non-Technical/Accounting/3. Tabular Analysis Example.md",
+    "Miscellaneous Non-Technical/Accounting/2. Basic and Expanded Accounting Equation.md",
+    "Miscellaneous Non-Technical/Accounting/4. Tabular Analysis Example 2.md",
+    "Miscellaneous Non-Technical/Accounting/16. Cost Sheet Problem Example.md",
+    "Miscellaneous Non-Technical/Accounting/15. Cost Sheet (Concept and Structure).md",
+    "Miscellaneous Non-Technical/Accounting/13. Cost-Volume-Profit (CVP).md",
+    "Miscellaneous Non-Technical/Accounting/14. CVP Problem Example 2.md",
+    "Untitled.md",
+    "Miscellaneous Non-Technical/Accounting/14. CVP Problem Example.md",
+    "Miscellaneous Non-Technical/Accounting/12. Adjusting Entries (সমন্বয় জাবেদা).md",
+    "Miscellaneous Non-Technical/Accounting/11. Real-World Example.md",
+    "Miscellaneous Non-Technical/Accounting/10. Trial Balance Example (রেওয়ামিল).md",
+    "Miscellaneous Non-Technical/Accounting/9. General Ledger Example (খতিয়ান).md",
+    "Miscellaneous Non-Technical/Accounting/8. General Journal Example (জাবেদা).md",
+    "Miscellaneous Non-Technical/Accounting/7. The Bank Message Confusion.md",
+    "Miscellaneous Non-Technical/Accounting/6. Principles of Journalizing.md",
+    "Miscellaneous Non-Technical/Accounting/5. Tabular Analysis Example 3.md",
+    "Miscellaneous Non-Technical/Accounting/1. Common Accounting Terms.md",
+    "Miscellaneous Non-Technical/Accounting",
+    "Miscellaneous Technical/13. Mailtrap SMTP Setup.md",
     "Miscellaneous Technical/14. Forward Gmail from One Account to Another.md",
     "resources/gmail-forward.png",
-    "Miscellaneous Technical/13. Mailtrap SMTP Setup.md",
     "resources/mailtrap2.png",
     "resources/mailtrap.png",
     "Miscellaneous Technical/12. Cloudflare Subdomain and Redirect.md",
@@ -165,24 +185,7 @@
     "Miscellaneous Technical/11. Cloudflared Tunnel Setup.md",
     "Miscellaneous Technical/DNS & Domain Terminology.md",
     "resources/shoyeb.asia.txt",
-    "index.md",
     "shoyeb.asia.txt",
-    "Miscellaneous Technical/2. DSA.md",
-    "Miscellaneous Technical/9. AWS Handnote.md",
-    "Miscellaneous Technical/6. JavaScript.md",
-    "Miscellaneous Technical/ng 21.md",
-    "Miscellaneous Technical/3. Git.md",
-    "Dotnet/Advanced Topic from Internet/Refit.md",
-    "Advanced C-Sharp/25. LINQ.md",
-    "Dotnet/Advanced Topic from Internet/NET decompilation tools.md",
-    "Dotnet/Advanced Topic from Internet/Dependency Injection Lifetimes.md",
-    "Dotnet/Advanced Topic from Internet/Local Temp Table vs Global Temp Table.md",
-    "Dotnet/Advanced Topic from Internet/AutoInclude.md",
-    "Dotnet/Advanced Topic from Internet/HttpContext.md",
-    "Dotnet/Advanced Topic from Internet/Bulk Update in EF Core- Old vs New.md",
-    "Dotnet/Advanced Topic from Internet/New Feature in Dot.md",
-    "Dotnet/Advanced Topic from Internet/HttpClient.md",
-    "Dotnet/Advanced Topic from Internet/Magical Debugging with DebuggerDisplay.md",
     "Dotnet/Advanced Topic from Internet",
     "MS SQL Query/Settings",
     "snippets/image-positions.css",
@@ -192,7 +195,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "MS SQL/Test",
-    "Angular"
+    "MS SQL/Test"
   ]
 }
