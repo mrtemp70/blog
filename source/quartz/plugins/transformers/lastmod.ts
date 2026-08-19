@@ -62,7 +62,9 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 }
 
                 try {
-                  modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
+                  const repoRoot = repo.workdir() ?? file.cwd
+                  const gitFilePath = path.relative(repoRoot, fullFp)
+                  modified ||= await repo.getFileLatestModifiedDateAsync(gitFilePath)
                 } catch {
                   console.log(
                     chalk.yellow(
